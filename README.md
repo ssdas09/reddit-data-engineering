@@ -8,7 +8,6 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
 - [System Setup](#system-setup)
-- [Video](#video)
 
 ## Overview
 
@@ -65,6 +64,3 @@ The pipeline is designed to:
     open http://localhost:8080
    ```
 
-
-## Video
-[![Reddit Data Engineering](https://img.youtube.com/vi/LSlt6iVI_9Y/0.jpg)](https://www.youtube.com/watch?v=LSlt6iVI_9Y)
